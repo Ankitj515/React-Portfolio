@@ -1,4 +1,5 @@
 import { AboutMe } from "../components/Aboutme";
+import { Contact } from "../components/Contact";
 import { Footer } from "../components/Footer";
 import { Hero } from "../components/Hero";
 import { Navbar } from "../components/Navbar";
@@ -13,6 +14,8 @@ export function Home(){
         <AboutMe />
         <Skills />
         <Projects />
+        <Contact/>
+        <Footer/>
         </>
     );
 }
