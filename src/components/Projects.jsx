@@ -8,7 +8,7 @@ const projects = [
 export function Projects(){
     return(
         <>
-        <section  className="container">
+        <section id="projects" className="container">
             <div className="wrapper project">
                 <h2>My Projects</h2>
                 <div className="project-grid">

@@ -2,7 +2,7 @@ import { CircleCheckBig } from "lucide-react";
 export function AboutMe() {
   return (
     <>
-      <section className="container">
+      <section id="about" className="container">
         <div className="wrapper about">
           <h2>
             

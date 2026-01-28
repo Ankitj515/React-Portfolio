@@ -7,7 +7,7 @@
 export function Skills() {
   return (
     <>
-      <section className="container container-skills">
+      <section id="skills" className="container container-skills">
         <div className="wrapper skills">
           <h2>Skills</h2>
           <div className="skill-card-section">

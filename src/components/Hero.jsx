@@ -2,7 +2,7 @@ import heroimage from "../assets/hero-img.png";
 export function Hero() {
   return (
     <>
-      <section className="hero-container">
+      <section id="home" className="hero-container">
         <div className="hero-wrapper">
           <div className="hero-info">
             <span className="hero-title">Full Stack Developer (MERN)</span>
